@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "713250895284",
+    "firebase_url": "https://face-detection-app-1fe76.firebaseio.com",
+    "project_id": "face-detection-app-1fe76",
+    "storage_bucket": "face-detection-app-1fe76.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713250895284:android:78a1af69b734b92a65aee1",
+        "android_client_info": {
+          "package_name": "com.example.livefacedetection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713250895284-qhcaerupoa6mp0cruc3e2703u0utassr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy46-aE-DnOZS1DYCwctuphi2DkP3YWGQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713250895284-qhcaerupoa6mp0cruc3e2703u0utassr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
